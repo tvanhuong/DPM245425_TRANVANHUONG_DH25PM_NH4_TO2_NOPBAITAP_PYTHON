@@ -1,5 +1,5 @@
 #Giai bai tap cau 6
-#Trình bày ý nghĩa toán tử /, //, %, **, and, or, is
+#Trình bày ý nghĩa toán tử /, //, %, **, and, or, is.
 ''' 
 / : Thực hiện phép chia và luôn trả về kết quả dạng số thực, dù chia hết hay không.
 // : Chia hai số và lấy phần nguyên (loại bỏ phần thập phân).
