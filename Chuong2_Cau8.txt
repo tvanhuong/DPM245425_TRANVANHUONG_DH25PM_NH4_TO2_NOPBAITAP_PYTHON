@@ -37,3 +37,14 @@ Trình bày các loại lỗi khi lập trình và cách bắt lỗi trong Pytho
     Để xử lý các Lỗi Thời Gian Chạy (Exceptions) và ngăn chương trình dừng đột ngột, em sử dụng cấu trúc try...except.
 
         Cấu trúc try...except
+        vd:
+         try:
+            r=float(input("Mời bạn nhập bán kính hình tròn:"))
+            cv=2*math.pi*r
+            dt=r**2
+            print("Chu vi =",cv)
+            print("Diện tích=",dt)
+            break
+        except:
+            print("Lỗi rồi!")
+            Khi nhập ký tự thì chương trình sẽ báo Lỗi rồi!.
