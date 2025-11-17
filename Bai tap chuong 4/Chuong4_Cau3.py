@@ -1,5 +1,5 @@
 ''' Gọi BMI là chỉ số cân đối cơ thể. Yêu cầu đầu vào nhập là chiều cao và cân nặng,
-hãy cho biết người này như thế nào, biết rằng:
+hãy cho biết người này như thế  nào, biết rằng:
 Hãy thông báo phân loại Và cảnh bảo nguy cơ cho họ theo bảng dưới đây:'''
 def BMI(height,weight):
     return weight/(height**2)
