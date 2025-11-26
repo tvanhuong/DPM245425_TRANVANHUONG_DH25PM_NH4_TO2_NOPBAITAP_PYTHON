@@ -1,4 +1,5 @@
 from tkinter import *
+#hi
 from tkinter import Menu
 window = Tk()
 window.title('Lap trinh Tkinter')

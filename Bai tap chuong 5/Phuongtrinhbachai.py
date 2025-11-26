@@ -1,5 +1,5 @@
 from tkinter import *
-
+#hi
 def tiepAction():
     stringA.set("")
     stringB.set("")
